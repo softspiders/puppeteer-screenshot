@@ -1,4 +1,4 @@
-# Taking Screenshots with [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+# Taking screenshots with [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ## Requirements
 
