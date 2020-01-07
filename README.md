@@ -1,5 +1,10 @@
 # Taking screenshots with [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
+## Feature tags
+
+- puppeteer
+- screenshot
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
