@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Taking screenshots with [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ## Feature tags
@@ -9,23 +11,9 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct feature ancestors
+## Direct ancestors - also by code
 
 [puppeteer](https://github.com/softspider/puppeteer)
-
-## Direct feature descendants
-
-Yet absent
-
----
-
-## Direct code ancestors
-
-[puppeteer](https://github.com/softspider/puppeteer)
-
-## Direct code descendants
-
-Yet absent
 
 ---
 
