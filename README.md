@@ -13,7 +13,7 @@ SOFTSPIDERS
 
 ## Direct ancestors - also by code
 
-[puppeteer](https://github.com/softspider/puppeteer)
+[puppeteer](https://github.com/softspiders/puppeteer)
 
 ---
 
