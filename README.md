@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Taking screenshots with [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
@@ -6,14 +6,20 @@ SOFTSPIDERS
 
 - puppeteer
 - screenshot
+- starter
+- template
 
-## Requirements
-
-[Node.js](https://nodejs.org/en/download/package-manager/)
+---
 
 ## Direct ancestors - also by code
 
 [puppeteer](https://github.com/softspiders/puppeteer)
+
+---
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ---
 
